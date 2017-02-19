@@ -1,0 +1,104 @@
+G:\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.exe.config
+G:\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.exe
+G:\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.pdb
+G:\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.xml
+G:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbprojResolveAssemblyReference.cache
+G:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Form1.resources
+G:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Resources.resources
+G:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbproj.GenerateResource.Cache
+G:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.exe
+G:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.xml
+G:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.pdb
+G:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.About.resources
+G:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Updater.resources
+G:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Marketmode.resources
+G:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.EULA.resources
+G:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Form2.resources
+G:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Help.resources
+E:\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.exe.config
+E:\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.exe
+E:\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.pdb
+E:\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.xml
+E:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbprojResolveAssemblyReference.cache
+E:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.About.resources
+E:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Form1.resources
+E:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Form2.resources
+E:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Help.resources
+E:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Resources.resources
+E:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Updater.resources
+E:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbproj.GenerateResource.Cache
+E:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.exe
+E:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.xml
+E:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.pdb
+E:\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.ProductKey.resources
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.About.resources
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Form1.resources
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Form2.resources
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Resources.resources
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Updater.resources
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.exe
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.xml
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.pdb
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.exe.config
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.exe
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.pdb
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.xml
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.LSES.resources
+C:\Users\Samuel\Documents\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Manage.resources
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.exe.config
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.exe
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.pdb
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.xml
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.About.resources
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Form1.resources
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Form2.resources
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.LSES.resources
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Manage.resources
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Resources.resources
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Updater.resources
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.exe
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.xml
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.pdb
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\obj\Debug\Interop.Shell32.dll
+C:\Users\Samuel\Desktop\LunaSoft_Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbproj.ResolveComReference.cache
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.exe.config
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.exe
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.pdb
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.xml
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\obj\Debug\Interop.Shell32.dll
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbproj.ResolveComReference.cache
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.About.resources
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Form1.resources
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Form2.resources
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.LSES.resources
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Manage.resources
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Resources.resources
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Updater.resources
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.exe
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.xml
+C:\Users\Samuel\Desktop\Artemis Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.pdb
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.exe.config
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.exe
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.pdb
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\bin\Debug\LunaSoft_Write.xml
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\Interop.Shell32.dll
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbproj.ResolveComReference.cache
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.About.resources
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Form1.resources
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Form2.resources
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.LSES.resources
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Manage.resources
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Resources.resources
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.Updater.resources
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.exe
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.xml
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.pdb
+C:\Users\Samuel\Desktop\LunaSoft Write\LunaSoft_Write\obj\Debug\LunaSoft_Write.LEvb.resources

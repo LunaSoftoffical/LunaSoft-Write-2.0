@@ -1,0 +1,72 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Product_Version" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2.0.0</Value>
+    </Setting>
+    <Setting Name="Default_Font" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Segoe UI Light, 8.25pt</Value>
+    </Setting>
+    <Setting Name="Font_Colour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="Back_Colour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="Window_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1016, 569</Value>
+    </Setting>
+    <Setting Name="Codename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Moscow</Value>
+    </Setting>
+    <Setting Name="Windowlastlocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="Stickynotetext" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Titlebar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LunaSoft Write 2.0</Value>
+    </Setting>
+    <Setting Name="Developer_Mode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ExtensionsDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\LunaSoft\Write\Extensions</Value>
+    </Setting>
+    <Setting Name="Tablet_Mode_on" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Menustrip_size_font_tabletmode" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Segoe UI Light, 14.55pt</Value>
+    </Setting>
+    <Setting Name="Menustrip_size_font_normal" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Segoe UI Light, 9pt</Value>
+    </Setting>
+    <Setting Name="TabletModeonstartup" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Maximised" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Statusstrip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="FirstBoot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Updater_Version" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.4.5</Value>
+    </Setting>
+    <Setting Name="LatestEditionsonstart" Type="System.String" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Servicepack" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Update" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
